@@ -1546,113 +1546,113 @@ $_LANG['ssofatalerror'] = "A fatal error occurred. Please contact support.";
 
 # Version 6.0
 
-$_LANG['announcementschoosemonth'] = "Choose Month";
-$_LANG['announcementsbymonth'] = "By Month";
-$_LANG['announcementsolder'] = "Older Announcements";
-$_LANG['createnewcontact'] = "New Contact...";
-$_LANG['due'] = "Due";
+$_LANG['announcementschoosemonth'] = "Vælg måned";
+$_LANG['announcementsbymonth'] = "Efter måned";
+$_LANG['announcementsolder'] = "Ældre annonceringer";
+$_LANG['createnewcontact'] = "Ny kontakt...";
+$_LANG['due'] = "Forfalden";
 $_LANG['affiliatessignups'] = "Antal Oprettelser";
 $_LANG['affiliatesconversionrate'] = "Omregningskurs";
-$_LANG['affiliatesclicks'] = "Clicks";
-$_LANG['contacts'] = "Contacts";
-$_LANG['backtoservicedetails'] = "Back to Service Details";
+$_LANG['affiliatesclicks'] = "Kliks";
+$_LANG['contacts'] = "Kontakter";
+$_LANG['backtoservicedetails'] = "Tilbage til service detaljer";
 $_LANG['invoicesintro'] = "Herunder kan du se alle de fakturaer du har modtaget fra os.";
 
-$_LANG['sidebars']['viewAccount']['yourAccount'] = "Your Account";
-$_LANG['sidebars']['viewAccount']['myDetails'] = "My Details";
-$_LANG['sidebars']['viewAccount']['billingInformation'] = "Billing Information";
-$_LANG['sidebars']['viewAccount']['contacts/subAccounts'] = "Contacts/Sub-Accounts";
-$_LANG['sidebars']['viewAccount']['changePassword'] = "Change Password";
-$_LANG['sidebars']['viewAccount']['securitySettings'] = "Security Settings";
-$_LANG['sidebars']['viewAccount']['emailHistory'] = "Email History";
+$_LANG['sidebars']['viewAccount']['yourAccount'] = "Din konto";
+$_LANG['sidebars']['viewAccount']['myDetails'] = "Mine detaljer";
+$_LANG['sidebars']['viewAccount']['billingInformation'] = "Faktureringsoplysninger";
+$_LANG['sidebars']['viewAccount']['contacts/subAccounts'] = "Kontakter/Under-konti";
+$_LANG['sidebars']['viewAccount']['changePassword'] = "Skift adgangskode";
+$_LANG['sidebars']['viewAccount']['securitySettings'] = "Sikkerhedsindstillinger";
+$_LANG['sidebars']['viewAccount']['emailHistory'] = "Email Historik";
 
-$_LANG['aboutsecurityquestions'] = "Why security questions?";
-$_LANG['registersecurityquestionblurb'] = "Setting a security question will provide extra security, as all changes to your account require providing the additional information from your question.";
+$_LANG['aboutsecurityquestions'] = "Hvorfor sikkerhedsspørgsmål?";
+$_LANG['registersecurityquestionblurb'] = "Indstilling af et sikkerhedsspørgsmål vil give ekstra sikkerhed, da alle ændringer på din konto kræver at du oplyser svaret på dit spørgsmål.";
 
-$_LANG['update'] = "Update";
-$_LANG['yourinfo'] = "Your Info";
-$_LANG['shortcuts'] = "Shortcuts";
+$_LANG['update'] = "Opdater";
+$_LANG['yourinfo'] = "Din info";
+$_LANG['shortcuts'] = "Genveje";
 
-$_LANG['yourservices'] = "Your Services";
-$_LANG['yourdomains'] = "Your Domains";
-$_LANG['yourtickets'] = "Your Tickets";
-$_LANG['managecontacts'] = "Manage Contacts";
-$_LANG['billingdetails'] = "Billing Details";
-$_LANG['homechooseproductservice'] = "Choose a product/service to manage:";
+$_LANG['yourservices'] = "Dine Services";
+$_LANG['yourdomains'] = "Dine domæner";
+$_LANG['yourtickets'] = "Dine supportager";
+$_LANG['managecontacts'] = "Administrer kontakter";
+$_LANG['billingdetails'] = "Faktureringsoplysninger";
+$_LANG['homechooseproductservice'] = "Vælg et produkt/service at administrere:";
 
 $_LANG['invoicesdue'] = "Faktura til betaling";
-$_LANG['invoicesduemsg'] = "You have %s invoice(s) currently unpaid with a total balance of %s";
-$_LANG['noinvoicesduemsg'] = "You have no unpaid invoices at this time.";
+$_LANG['invoicesduemsg'] = "Du har %s faktura(er) øjeblikket ubetalt med en samlet balance på %s";
+$_LANG['noinvoicesduemsg'] = "Du har ingen ubetalte fakturaer i øjeblikket.";
 
-$_LANG['expiringsoon'] = "Expiring Soon";
+$_LANG['expiringsoon'] = "Udløber snart";
 
-$_LANG['notice'] = "Notice";
-$_LANG['networkstatussubtitle'] = "News & Information";
+$_LANG['notice'] = "Bemærk";
+$_LANG['networkstatussubtitle'] = "Nyheder & Information";
 
-$_LANG['myaccount'] = "My Account";
+$_LANG['myaccount'] = "Min konto";
 
-$_LANG['manageproduct'] = "Manage Product";
-$_LANG['overview'] = "Overview";
+$_LANG['manageproduct'] = "Administrer produkt";
+$_LANG['overview'] = "Overblik";
 $_LANG['servername'] = "Server";
-$_LANG['visitwebsite'] = "Visit Website";
+$_LANG['visitwebsite'] = "Besøg websitet";
 $_LANG['whoisinfo'] = "WHOIS Info";
 
-$_LANG['tableshowing'] = "Showing _START_ to _END_ of _TOTAL_ entries";
-$_LANG['tableempty'] = "Showing 0 to 0 of 0 entries";
-$_LANG['tablefiltered'] = "(filtered from _MAX_ total entries)";
-$_LANG['tablelength'] = "Show _MENU_ entries";
-$_LANG['tableloading'] = "Loading...";
-$_LANG['tableprocessing'] = "Processing...";
-$_LANG['tablepagesfirst'] = "First";
-$_LANG['tablepageslast'] = "Last";
-$_LANG['tablepagesnext'] = "Next";
-$_LANG['tablepagesprevious'] = "Previous";
-$_LANG['tableviewall'] = "All";
-$_LANG['tableentersearchterm'] = "Enter search term...";
+$_LANG['tableshowing'] = "Viser _START_ til _END_ af _TOTAL_ elementer";
+$_LANG['tableempty'] = "Viser 0 til 0 af 0 elementer";
+$_LANG['tablefiltered'] = "(filtreret fra _MAX_ elementer)";
+$_LANG['tablelength'] = "Vis _MENU_ elementer";
+$_LANG['tableloading'] = "Indlæser...";
+$_LANG['tableprocessing'] = "Arbejder...";
+$_LANG['tablepagesfirst'] = "Første";
+$_LANG['tablepageslast'] = "Sidste";
+$_LANG['tablepagesnext'] = "Næste";
+$_LANG['tablepagesprevious'] = "Forrige";
+$_LANG['tableviewall'] = "Alle";
+$_LANG['tableentersearchterm'] = "Indtast søgeord...";
 
-$_LANG['actions'] = "Actions";
+$_LANG['actions'] = "Handlinger";
 
-$_LANG['upgradedowngradeshort'] = "Up/Downgrade";
+$_LANG['upgradedowngradeshort'] = "Op/Nedgrader";
 
 $_LANG['masspayintro'] = "Betal alle de fakturaer, der er anført nedenfor i en enkelt transaktion ved at vælge en betalingsmetode";
-$_LANG['masspaymentselectgateway'] = "Select Mass Payment Gateway";
+$_LANG['masspaymentselectgateway'] = "Vælg betalingsmetode";
 
-$_LANG['ticketfeedbackrequest'] = "Feedback Request";
-$_LANG['ticketfeedbackforticket'] = "for Ticket #";
+$_LANG['ticketfeedbackrequest'] = "Feedback Anmodning";
+$_LANG['ticketfeedbackforticket'] = "for Supportsag #";
 
-$_LANG['notifications'] = "Notifications";
-$_LANG['notificationsnone'] = "You have no notifications at this time.";
+$_LANG['notifications'] = "Underretninger";
+$_LANG['notificationsnone'] = "Du har ingen underretninger på dette tidspunkt.";
 
-$_LANG['creditcardnonestored'] = "No card on file";
+$_LANG['creditcardnonestored'] = "Intet kort arkiveret";
 
-$_LANG['kbviewingarticlestagged'] = "Viewing articles tagged";
+$_LANG['kbviewingarticlestagged'] = "Viser artikler tagget";
 
-$_LANG['domainprivatenameservers'] = "Private Nameservers";
+$_LANG['domainprivatenameservers'] = "Private navneservere";
 
-$_LANG['transferinadomain'] = "Transfer in a Domain";
+$_LANG['transferinadomain'] = "Overfør et domæne";
 
-$_LANG['nodomainextensions'] = "There are no Domain Extensions currently configured for purchase";
+$_LANG['nodomainextensions'] = "Der er ikke konfugureret nogle domænetyper";
 
-$_LANG['homebegin'] = "Begin the search for your perfect domain name...";
-$_LANG['howcanwehelp'] = "How can we help today?";
-$_LANG['exampledomain'] = "eg. yourdomain.com";
-$_LANG['buyadomain'] = "Buy A Domain";
-$_LANG['orderhosting'] = "Order Hosting";
-$_LANG['makepayment'] = "Make Payment";
-$_LANG['getsupport'] = "Get Support";
+$_LANG['homebegin'] = "Begynd søgningen efter dit perfekte domænenavn...";
+$_LANG['howcanwehelp'] = "Hvordan kan vi hjælpe idag?";
+$_LANG['exampledomain'] = "fx. ditdomæne.dk";
+$_LANG['buyadomain'] = "Køb et domæne";
+$_LANG['orderhosting'] = "Bestil hosting";
+$_LANG['makepayment'] = "Foretag betaling";
+$_LANG['getsupport'] = "Få support";
 
-$_LANG['news'] = "News";
-$_LANG['allthelatest'] = "All the latest from";
-$_LANG['readmore'] = "Read More";
-$_LANG['noannouncements'] = "No announcements to display";
+$_LANG['news'] = "Nyheder";
+$_LANG['allthelatest'] = "Alt det seneste fra";
+$_LANG['readmore'] = "Læs mere";
+$_LANG['noannouncements'] = "Ingen annonceringer at vise";
 
-$_LANG['kbsearchexplain'] = "Have a question? Start your search here.";
-$_LANG['readyforquestions'] = "We're ready and waiting for your questions";
+$_LANG['kbsearchexplain'] = "Har du et spørgsmål? Start din søgning her.";
+$_LANG['readyforquestions'] = "Vi er klar og venter på dine spørgsmål";
 
-$_LANG['restrictedpage'] = "This page is restricted";
-$_LANG['enteremail'] = "Enter email";
+$_LANG['restrictedpage'] = "Denne side er begrænset";
+$_LANG['enteremail'] = "Indtast e-mail";
 
-$_LANG['passwordtips'] = "<strong>Tips for a good password</strong><br />Use both upper and lowercase characters<br />Include at least one symbol (# $ ! % &amp; etc...)<br />Don't use dictionary words";
+$_LANG['passwordtips'] = "<strong>Tips til en god adgangskode</strong><br />Brug både store og små bogstaver<br />Inkluder mindst et symbol (# $ ! % &amp; osv...)<br />Brug ikke almindelige ord";
 
 $_LANG['regdate'] = "Reg Date";
 $_LANG['nextdue'] = "Next Due";
