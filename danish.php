@@ -2072,5 +2072,17 @@ $_LANG['markdown']['female'] = "Kvinde";
 $_LANG['markdown']['displayingCode'] = "Visning af kode";
 $_LANG['markdown']['spanningMultipleLines'] = "Eller over flere linjer...";
 $_LANG['markdown']['saved'] = "Gemt";
-$_LANG['markdown']['saving'] = "Autogemmer";
+$_LANG['markdown']['saving'] = "Gemmer";
+
+$_LANG['oauth']['authoriseAppToAccess'] = "Authorise :appName<br />to access your account?";
+$_LANG['oauth']['willBeAbleTo'] = "This application will be able to";
+$_LANG['oauth']['authorise'] = "Authorise";
+$_LANG['oauth']['currentlyLoggedInAs'] = "You are currently logged in as :firstName :lastName";
+$_LANG['oauth']['notYou'] = "Not You?";
+$_LANG['oauth']['returnToApp'] = "Return to :appName";
+$_LANG['oauth']['copyrightFooter'] = "Copyright &copy; :dateYear :companyName. All Rights Reserved.";
+$_LANG['oauth']['loginToGrantApp'] = "Login to grant :appName<br />access to your account";
+$_LANG['oauth']['redirectDescriptionOne'] = "Redirecting you back to the application. This may take a few moments.";
+$_LANG['oauth']['redirectDescriptionTwo'] = "If your browser doesn't redirect you, please";
+$_LANG['oauth']['redirectDescriptionThree'] = "click here to continue";
 ////////// End of danish language file.  Do not place any translation strings below this line!
